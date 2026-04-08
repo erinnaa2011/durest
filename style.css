@@ -19,3 +19,16 @@ body {
     bottom: 50% !important;
 }
 
+
+.hr {
+    border-top: 3px solid white;
+    opacity: 1;
+    width: 150px;
+    margin: 0 auto;
+
+
+
+}
+
+
+
