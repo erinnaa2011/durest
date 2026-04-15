@@ -7,8 +7,11 @@
 }
 
 .text-orange {
-    color: #f8a000;
+    color: #f8a000;;
+}
 
+.bg-orange {
+    background-color: #f8a000;
 }
 
 body {
@@ -19,15 +22,15 @@ body {
     bottom: 50% !important;
 }
 
-
 .hr {
     border-top: 3px solid white;
     opacity: 1;
     width: 150px;
     margin: 0 auto;
+}
 
-
-
+.icon {
+    width: 65px !important;
 }
 
 
