@@ -1,3 +1,37 @@
+</div>
+ 
+    <p class="text-secondary text-sm"></p>
+ 
+</div>
+ 
+<input type="subject " class="form-control input-bg" id="floatingSubject" placeholder="Your Subject"
+ 
+ id="name" placeholder="Name"
+ 
+action=""
+ 
+<form action="" class="form"></form>
+ 
+div class="for</div>
+ 
+quatur nulla quibusdam exercitationem!
+ 
+Provident itaque quibusdam explicabo corrupti sit ullam iste dicta vero.
+ 
+ Provident, fugiat sapiente amet quod reiciendis itaque.
+ 
+    <div class="row">
+        <div class="col-12 p-5 text-center">
+          <h2 class="text-white"></h2>
+          <hr class="hr border-orange">
+          <p class="text-light mt-3">Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        </div>
+      </div>
+ 
+.border-orange {
+    border-color: #f8a000 !important;
+}
+ 
 /slide3.jpg
  
 /slide2.jpg
