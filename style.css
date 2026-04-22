@@ -2,20 +2,16 @@
     background-color: #191818 !important;
 }
 
-.text-main {
-
-}
-
 .text-orange {
-    color: #f8a000;;
+    color: #f8a000;
 }
 
 .bg-orange {
     background-color: #f8a000;
 }
 
-body {
-    height: 2000px;
+.border-orange {
+    border-color: #f8a000 !important;
 }
 
 .carousel-caption {
@@ -30,12 +26,10 @@ body {
 }
 
 .icon {
-    width: 65px !important;
+    width: 65px;
 }
 
-
-
-.nav-link.active {
+.nav-tabs .nav-link.active {
     background-color: #f8a000 !important;
     color: white !important;
     border: none !important;
@@ -45,9 +39,19 @@ body {
     background-color: #31302d;
 }
 
+.input-bg, .input-bg:focus{
+    background-color: #383838;
+}
 
-.input-bg , input-bg:focus {
-    background-color: #302d2d;
+#scrollToTop {
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
 }
 
 
+.auth-card {
+    background-color: #31302d;
+    border: 1px solid #444;
+    border-radius: 12px;
+}
